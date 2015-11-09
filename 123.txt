@@ -1,0 +1,37 @@
+1. GitHub
+https://github.com/doggy8088/Learn-Git-in-30-days/blob/master/docs/24%20%E4%BD%BF%E7%94%A8%20GitHub%20%E9%81%A0%E7%AB%AF%E5%84%B2%E5%AD%98%E5%BA%AB%20-%20%E5%85%A5%E9%96%80%E7%AF%87.markdown
+
+2. ASP.NET 5 
+   MVC 6
+   RESTful HTTP
+http://blog.darkthread.net/post-2015-03-08-aspnet-5-changes.aspx
+http://blog.miniasp.com/post/2015/05/11/ASPNET5-Developers-Note-Part-01-Source-Code.aspx
+
+3. AngularJS
+   TypeScript
+
+4. Android Studio
+   Cordova Plugins
+   Hybrid APP
+   jQuery/jQuery Moblie
+   Html 5 
+   CSS 3
+
+5. C# 6.0
+
+6. Entity Framework 7
+   JavaScript UWP(Universal Windows App)
+
+7. SQL Server 2016
+
+8. Rasbperry Pi 2
+   Arduino
+   Windows IoT
+   
+
+
+
+
+
+
+
